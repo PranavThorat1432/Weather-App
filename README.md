@@ -17,9 +17,12 @@ A simple, user-friendly Weather Application that provides real-time weather upda
 ---
 
 ## 🧰 Demo
-![Weather App Demo](https://via.placeholder.com/600x400.png?text=Weather+App+Demo)
 
-> **Note:** Replace the placeholder above with an actual screenshot of your app.
+![UI](https://github.com/user-attachments/assets/5c8bba9a-707c-403a-8bff-6e24719e544f)
+
+![Interface](https://github.com/user-attachments/assets/b92e5a67-c8e7-40f5-ac50-1e6574b6cb86)
+
+
 
 ---
 
@@ -88,12 +91,14 @@ Check out the live version of this project:
 
 ## 🚀 Screenshots
 ### Main Interface:
-![Main Interface](https://via.placeholder.com/600x400.png?text=Main+Interface)
+![Interface](https://github.com/user-attachments/assets/ecb07f69-f9fa-4fb6-8523-25a2e32eab52)
+
 
 ### Error State:
-![Error State](https://via.placeholder.com/600x400.png?text=Invalid+City+Name)
+![Error](https://github.com/user-attachments/assets/98fb2774-0851-4762-bcbd-fd798e0fcc99)
 
-> Replace the placeholders with actual screenshots of your application.
+
+
 
 ---
 
@@ -105,8 +110,8 @@ Check out the live version of this project:
 
 ## 🌐 Connect with Me
 Let’s connect and discuss more projects like this:
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin/)
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/curiouspranavthorat/)
+- GitHub: [Your GitHub Profile](https://github.com/PranavThorat1432)
 
 ---
 
