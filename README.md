@@ -85,7 +85,7 @@ weather-app/
 
 ## 🌐 Live Preview
 Check out the live version of this project:
-[Weather App on Netlify](https://your-netlify-link.netlify.app/)
+[Weather App on Vercel](https://weather-app-two-lovat-21.vercel.app/)
 
 ---
 
